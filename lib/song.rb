@@ -42,7 +42,7 @@ class Song
   end
    
    self.new_from_filename(name)
-   
+   song = self.new
    self.name = 
    
    
