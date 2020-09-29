@@ -14,6 +14,7 @@ class Song
    self.all.include?(song)
    song = self.new
    self.save
+   song
  end 
    
    
